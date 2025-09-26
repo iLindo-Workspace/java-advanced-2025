@@ -1,4 +1,4 @@
-package Chaper8.Exercises;
+package Chapter8.Exercises;
 
 public class Department {
     private String department;

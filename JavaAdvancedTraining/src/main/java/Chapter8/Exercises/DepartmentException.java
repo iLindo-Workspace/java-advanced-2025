@@ -1,4 +1,4 @@
-package Chaper8.Exercises;
+package Chapter8.Exercises;
 
 /**
  * @author Lindokuhle Makanda
