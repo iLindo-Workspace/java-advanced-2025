@@ -1,6 +1,5 @@
-package Chaper8;
+package Chapter8;
 
-import javax.naming.LimitExceededException;
 import java.util.Scanner;
 
 public class ProductRunner {

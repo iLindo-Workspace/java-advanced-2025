@@ -1,4 +1,4 @@
-package Chaper8;
+package Chapter8;
 
 /**
  * @author Lindokuhle Makanda

@@ -1,4 +1,4 @@
-package Chaper8.Exercises;
+package Chapter8.Exercises;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

@@ -1,6 +1,4 @@
-package Chaper8;
-
-import javax.naming.LimitExceededException;
+package Chapter8;
 
 /**
  * @author Lindokuhle Makanda
