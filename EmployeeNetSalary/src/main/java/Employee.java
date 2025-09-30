@@ -8,8 +8,7 @@
     }
     public class Employee implements  IEmployee
     {
-        //    //The following int is to monitor how many employees are created
-//    private static int employeeCount = 120;
+
         //Class Attributes
         private String ID, name, jobTitle;
         //This attribute is required in the constructor parameters
@@ -27,7 +26,6 @@
             setDepartment(dept);
             setSalary(basicSalary);
             setPosition(position);
-//        employeeCount ++;
         }
 
         public Employee(){

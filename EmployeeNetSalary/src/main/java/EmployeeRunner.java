@@ -23,7 +23,7 @@ public class EmployeeRunner {
             try {
                 emp.raiseSalary(0.15);
                 System.out.println(emp);
-            } catch (IllegalArgumentException | HighSalaryIncrease e){
+            } catch (HighSalaryIncrease e){
                 System.err.println(e.getMessage());
             }
 
