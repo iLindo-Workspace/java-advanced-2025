@@ -38,10 +38,11 @@ public class EmployeeRunner {
             emp.promote(7);
             if(p == emp.getPosition()){
                 System.out.println(yellow + emp.getName() + " Doesn't qualify for promotion at this point..." + reset);
+            }else{
+                System.out.println(emp.getName() + "'s" + " Previous position " + p + " is promoted to " + emp.getPosition());
             }
-            System.out.println(emp);
-
         }
+        System.out.println("\nThe botton exception message is thrown from the 15% raise. ");
 
 
 
